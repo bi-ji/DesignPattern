@@ -1,4 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea
-/DesignPattern.iml
+/*.iml
+/*/*.iml
 /target
+/*/target
+/Singleton/Singleton.iml
